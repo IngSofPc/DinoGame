@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DinoWorld
+comment1.params=
+comment1.target=DinoWorld()
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ handleDayNightCycle()
+comment5.params=
+comment5.target=void\ spawnObstacles()
+comment6.params=
+comment6.target=void\ updateScoreDisplay()
+comment7.params=amount
+comment7.target=void\ increaseScore(int)
+comment8.params=
+comment8.target=int\ getScore()
+comment9.params=
+comment9.target=void\ gameOver()
+numComments=10

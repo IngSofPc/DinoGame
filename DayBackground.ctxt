@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DayBackground
+comment1.params=
+comment1.target=DayBackground()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ hmmmm...\ si\ \r\n\ Este\ m\u00E9todo\ se\ llama\ cuando\ el\ actor\ es\ a\u00F1adido\ al\ mundo.\r\n\ Aqu\u00ED\ es\ donde\ escalaremos\ la\ imagen.\r\n\ esta\ un\ poco\ loco\ \uD83D\uDE05\r\n
+numComments=3

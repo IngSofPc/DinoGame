@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RockObstacle
+comment1.params=
+comment1.target=RockObstacle()
+comment2.params=factorEscala
+comment2.target=void\ escalarImagen(double)
+comment3.params=
+comment3.target=void\ act()
+numComments=4
